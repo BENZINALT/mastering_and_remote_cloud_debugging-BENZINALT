@@ -1,0 +1,1 @@
+C:\Users\lgc-s\source\source\repos\ISS_KIBO_workerservice\ASAEdgeApplication_BENZINALT_KIBO_ISS\obj\Release\ASAEdgeApplication_BENZINALT_KIBO_ISS.edgeproj.CoreCompileInputs.cache

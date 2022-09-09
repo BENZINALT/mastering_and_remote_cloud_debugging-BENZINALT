@@ -1,0 +1,2 @@
+C:\Users\lgc-s\source\source\repos\ISS_KIBO_workerservice\BENZINALT_ISS_KIBOroot-master-workerservice\obj\Release\net6.0\BENZINALT_ISS_KIBOroot-master-workerservice.csproj.AssemblyReference.cache
+C:\Users\lgc-s\source\source\repos\ISS_KIBO_workerservice\BENZINALT_ISS_KIBOroot-master-workerservice\obj\Release\net6.0\BENZINALT_ISS_KIBOroot-master-workerservice.GeneratedMSBuildEditorConfig.editorconfig
